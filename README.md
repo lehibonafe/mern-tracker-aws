@@ -11,4 +11,9 @@ A serverless tracking application for developers to track their development.
 - S3
 - API Gateway
 - Lambda Function
-- DynamoDB Table
+- DynamoDB
+
+## Stack
+- Node.js
+- React
+
