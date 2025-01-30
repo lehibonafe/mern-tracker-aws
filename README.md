@@ -1,4 +1,4 @@
-# mern-tracker-aws
+# devtrack-aws
 
 A serverless tracking application for developers to track their development.
 
